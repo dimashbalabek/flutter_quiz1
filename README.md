@@ -12,3 +12,4 @@ Statistics: Present statistical information such as wind speed, humidity, and pr
 7-Day Forecast: Display a forecast for the next 7 days, including temperature and weather conditions.
 Screenshots:
 
+![image](https://github.com/dimashbalabek/flutter_quiz1/assets/144226438/226fa481-efeb-4ce7-a4ca-15a7ecbd0b71)
