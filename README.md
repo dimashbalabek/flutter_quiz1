@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+This Flutter application provides a simple weather forecast interface, displaying weather information for a given location.
 
-This project is a starting point for a Flutter application.
+Features:
+Search: Enter the name of a city to retrieve weather information.
+Current Weather: Display the current weather conditions, including temperature and weather icon.
+Location: Show the location address and the current date.
+Statistics: Present statistical information such as wind speed, humidity, and precipitation.
+7-Day Forecast: Display a forecast for the next 7 days, including temperature and weather conditions.
+Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/dimashbalabek/flutter_quiz1/assets/144226438/226fa481-efeb-4ce7-a4ca-15a7ecbd0b71)
