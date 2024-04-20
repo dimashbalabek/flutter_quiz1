@@ -78,7 +78,7 @@ Column _mainText() {
         "Pushkin 154, Taraz",
         style: TextStyle(
           fontSize:30,
-          color: Colors.blue[1000],
+          color: Color(int.parse('0xFF243E55')),
           fontWeight: FontWeight.w400
         ),),
       const Text(
