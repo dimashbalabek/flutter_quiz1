@@ -39,6 +39,7 @@ Widget _buildBody() {
           const SizedBox(height: 20,),
           _mainText(),
           const SizedBox(height: 20,),
+
           _weather(),
           const SizedBox(height: 20,),
           _statistics(),
